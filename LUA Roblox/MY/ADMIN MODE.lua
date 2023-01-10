@@ -1,3 +1,2 @@
-loadstring(game:HttpGet(''))()
-loadstring(game:HttpGet(''))()
-loadstring(game:HttpGet(''))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Hexon777/GitScripts/master/LUA%20Roblox/Global/CMD-X.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Hexon777/GitScripts/master/LUA Roblox/Global/Infinite Yeld.lua'))()
